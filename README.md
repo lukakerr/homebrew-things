@@ -1,14 +1,14 @@
-# homebrew-casks
+# homebrew-things
 
-This repository contains Homebrew casks for open source applications of mine
-that get released.
+This repository contains Homebrew casks and formula for open source applications/scripts
+of mine that get released.
 
-Why? To speed up Homebrew cask releases and so I can manage casks myself.
+Why? To speed up Homebrew releases and so I can manage them myself.
 
 ### Installing
 
 ```bash
-$ brew tap lukakerr/casks
-$ brew cask install some-app
+$ brew tap lukakerr/things
+$ brew cask install something
 ```
 
