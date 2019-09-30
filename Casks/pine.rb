@@ -1,6 +1,6 @@
 cask 'pine' do
-  version '0.0.9'
-  sha256 'cb29bff6a4e33e82b1bd91398f1babdfb6ba635eb752e4c0101668fa5f335d6d'
+  version '0.1.0'
+  sha256 '046f2603f7e4dcdc7535c6a5652dbfbab5cbe93fa36ca161f8a8029b53770b76'
 
   url "https://github.com/lukakerr/pine/releases/download/#{version}/Pine-#{version}.zip"
   appcast 'https://github.com/lukakerr/pine/releases.atom'
